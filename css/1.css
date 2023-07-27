@@ -1,5 +1,5 @@
 body {
-    cursor: url(https://s2.loli.net/2023/05/23/fdNexXBkG72Tst8.png), auto;
+    cursor: url(/img/sb.png), auto;
 }
 
 .hide-block>.hide-button.open,
@@ -10,7 +10,7 @@ body {
 a,
 button,
 img {
-    cursor: url(https://s2.loli.net/2023/05/23/fdNexXBkG72Tst8.png), auto
+    cursor: url(/img/sb.png), auto
 }
 
 ::-webkit-scrollbar {
